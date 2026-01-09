@@ -1,0 +1,91 @@
+OpsMind AI — Employee Operations Handbook
+
+Version: 1.0
+Department: People Operations
+Effective Date: 2025-01-01
+
+This handbook defines core policies for onboarding, benefits, time-off, and refunds related to training programs.
+Refer to each section for authoritative guidance.
+When in doubt, contact People Operations.
+
+1. Onboarding Policy
+1.1 New Hire Overview
+
+All new hires must complete the onboarding checklist within 10 business days.
+The checklist includes:
+
+Account setup
+
+Security training
+
+Equipment verification
+
+1.2 Security Training
+
+Mandatory security training must be completed within the first 7 days of employment.
+Failure to complete training may result in temporary access restrictions.
+
+1.3 Equipment
+
+Employees receive a standard company-issued laptop and accessories.
+Any exceptions must be approved by the employee’s manager.
+
+2. Refund Policy (Authoritative)
+2.1 Scope
+
+This refund policy applies only to company-sponsored external training courses purchased through the Learning & Development (L&D) portal.
+
+2.2 Eligibility
+
+A refund is approved when any of the following conditions are met:
+
+The course provider cancels or reschedules the course beyond 30 days
+
+The employee withdraws at least 14 days before the course start date
+
+The course content is materially different from the published syllabus
+
+2.3 Non-Eligibility
+
+Refunds are not provided in the following cases:
+
+No-shows or withdrawals fewer than 14 days before course start
+
+Personal preference after the course has started
+
+Internal training materials or internal workshops
+
+2.4 Refund Process
+
+Employees must submit a refund request in the L&D portal within 10 business days of the qualifying event.
+Required documentation includes:
+
+Proof of purchase
+
+Communication from the course provider
+
+Approved refunds are processed within 15 business days.
+
+3. Time Off and Holidays
+3.1 Paid Time Off (PTO)
+
+Employees accrue PTO on a monthly basis.
+PTO requests should be submitted at least 7 days in advance.
+
+3.2 Local Holidays
+
+Local holidays follow the regional calendar published by People Operations.
+
+3.3 Sick Leave
+
+Sick leave is available immediately upon employment.
+A doctor’s note may be required for absences longer than 3 consecutive days.
+
+4. Not Covered Topics
+4.1 Payroll Banking Changes
+
+Instructions for changing payroll banking details are maintained in a separate Payroll SOP and are not covered in this handbook.
+
+4.2 Hardware Warranty Terms
+
+Hardware warranty policies are documented by the IT department and are not included in this document.
