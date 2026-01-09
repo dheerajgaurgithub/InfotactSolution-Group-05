@@ -1,0 +1,9 @@
+# Normalize line endings across platforms
+* text=auto
+
+# Treat common binary types
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
